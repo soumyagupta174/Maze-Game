@@ -1,1 +1,2 @@
 # Maze-Game
+The Maze Game is a Python-based interactive game built with Pygame, where players navigate through a randomly generated maze to reach the goal. The game offers manual controls using arrow keys and an AI solver that finds the shortest path using BFS (Breadth-First Search) or DFS (Depth-First Search). Players can explore the maze on their own or press a key to let the AI solve it automatically. With smooth animations and engaging gameplay, the project showcases algorithmic pathfinding in an interactive way, making it both fun and educational. 
